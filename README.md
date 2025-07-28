@@ -55,5 +55,6 @@ Due to GitHub's file size limit (100MB), the trained model is hosted externally:
 Download model.keras from https://huggingface.co/Fatimazunaira/Cats_vs_Dogs_Model
 After downloading, place it in the model/ folder.
 
+Create a folder named 'uploads' for images
  Author
 Fatima Zunaira
